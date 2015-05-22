@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emitter imageName="" name="Nuclear Explosion">
+  <spawnInterval enabled="true" max="300.0" min="250.0"/>
+  <spawnCount enabled="true" max="499.0" min="499.0"/>
+  <initialLife enabled="true" max="5000.0" min="3000.0"/>
+  <initialSize enabled="true" max="1.0" min="1.0"/>
+  <xOffset enabled="true" max="7.0" min="-7.0"/>
+  <yOffset enabled="true" max="7.0" min="-7.0"/>
+  <initialDistance enabled="false" max="0.0" min="0.0"/>
+  <speed enabled="true" max="45.0" min="1.0"/>
+  <length enabled="true" max="1500.0" min="1500.0"/>
+  <spread value="360.0"/>
+  <angularOffset value="0.0"/>
+  <growthFactor value="15.0"/>
+  <gravityFactor value="0.0"/>
+  <windFactor value="0.0"/>
+  <startAlpha value="255.0"/>
+  <endAlpha value="0.0"/>
+  <color>
+    <step r="1.0" g="0.0" b="0.0" offset="0.0"/>
+    <step r="1.0" g=".62" b="0.0" offset="0.4"/>
+    <step r=".29" g=".16" b="0.02" offset="0.7"/>
+    <step r="1.0" g="1.0" b="0.0" offset="1.0"/>
+  </color>
+</emitter>
